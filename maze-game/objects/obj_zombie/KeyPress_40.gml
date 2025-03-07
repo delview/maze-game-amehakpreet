@@ -9,3 +9,11 @@ speed = 3;
 /// @DnDHash : 0D74EB40
 /// @DnDArgument : "direction" "270"
 direction = 270;
+
+/// @DnDAction : YoYo Games.Instances.Set_Sprite
+/// @DnDVersion : 1
+/// @DnDHash : 3B61C012
+/// @DnDArgument : "spriteind" "spr_zombie_back"
+/// @DnDSaveInfo : "spriteind" "spr_zombie_back"
+sprite_index = spr_zombie_back;
+image_index = 0;
