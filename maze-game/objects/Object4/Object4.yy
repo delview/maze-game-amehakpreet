@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object2",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_zombie","path":"objects/obj_zombie/obj_zombie.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Object4",
+  "eventList":[],
   "managed":true,
-  "name":"Object2",
+  "name":"Object4",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -29,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_brain",
-    "path":"sprites/spr_brain/spr_brain.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
