@@ -48,6 +48,7 @@
     {"id":{"name":"Level3","path":"rooms/Level3/Level3.yy",},},
     {"id":{"name":"Level4","path":"rooms/Level4/Level4.yy",},},
     {"id":{"name":"Start","path":"rooms/Start/Start.yy",},},
+    {"id":{"name":"coin_recieved_230517__1_","path":"sounds/coin_recieved_230517__1_/coin_recieved_230517__1_.yy",},},
     {"id":{"name":"zombie_music_1","path":"sounds/zombie_music_1/zombie_music_1.yy",},},
     {"id":{"name":"spr_axe","path":"sprites/spr_axe/spr_axe.yy",},},
     {"id":{"name":"spr_background2","path":"sprites/spr_background2/spr_background2.yy",},},
