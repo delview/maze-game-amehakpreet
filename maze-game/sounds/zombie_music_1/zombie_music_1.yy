@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"zombie_music_1",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":222.35425,
+  "name":"zombie_music_1",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"zombie_music_1.mp3",
+  "type":0,
+  "volume":1.0,
+}
